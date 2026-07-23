@@ -5,7 +5,7 @@ CL = cl65
 AS = ca65
 AR = ar65
 
-NAME = mylib
+NAME = x16-libgui
 LIB = lib/$(NAME).a
 
 CFLAGS = -O -Iinclude
